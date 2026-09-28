@@ -1,0 +1,8 @@
+build/
+# the levels extracted from the user's game (never in the repository)
+library/
+.cache/
+*.backups/
+*.tmp
+# Python caches (tools/)
+__pycache__/

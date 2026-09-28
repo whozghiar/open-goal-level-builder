@@ -1,0 +1,81 @@
+{
+ "BEA.DGO": [
+  "beach"
+ ],
+ "CIT.DGO": [
+  "citadel"
+ ],
+ "DAR.DGO": [
+  "darkcave"
+ ],
+ "DEM.DGO": [
+  "demo"
+ ],
+ "FIC.DGO": [
+  "firecanyon"
+ ],
+ "FIN.DGO": [
+  "finalboss"
+ ],
+ "INT.DGO": [
+  "intro"
+ ],
+ "JUB.DGO": [
+  "jungleb"
+ ],
+ "JUN.DGO": [
+  "jungle"
+ ],
+ "LAV.DGO": [
+  "lavatube"
+ ],
+ "MAI.DGO": [
+  "maincave"
+ ],
+ "MIS.DGO": [
+  "misty"
+ ],
+ "NONE.DGO": [
+  "halfpipe",
+  "default-level"
+ ],
+ "OGR.DGO": [
+  "ogre"
+ ],
+ "ROB.DGO": [
+  "robocave"
+ ],
+ "ROL.DGO": [
+  "rolling"
+ ],
+ "SNO.DGO": [
+  "snow"
+ ],
+ "SUB.DGO": [
+  "sunkenb"
+ ],
+ "SUN.DGO": [
+  "sunken"
+ ],
+ "SWA.DGO": [
+  "swamp"
+ ],
+ "TIT.DGO": [
+  "title"
+ ],
+ "TRA.DGO": [
+  "training"
+ ],
+ "TSZ.DGO": [
+  "test-zone"
+ ],
+ "VI1.DGO": [
+  "village1"
+ ],
+ "VI2.DGO": [
+  "village2"
+ ],
+ "VI3.DGO": [
+  "village3"
+ ]
+}

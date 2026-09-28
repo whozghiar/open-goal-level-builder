@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "open-goal-level-editor": {
+      "command": "build/bin/open-goal-level-editor.exe",
+      "args": ["--mcp"]
+    }
+  }
+}

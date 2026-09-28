@@ -1,0 +1,509 @@
+{
+ "4AARON.DGO": [
+  "4aaron"
+ ],
+ "4PAL01.DGO": [
+  "4pal01"
+ ],
+ "ANDREW01.DGO": [
+  "andrew01"
+ ],
+ "ATE.DGO": [
+  "atollext"
+ ],
+ "ATO.DGO": [
+  "atoll"
+ ],
+ "BSBS.DGO": [
+  "bsbs"
+ ],
+ "CAB.DGO": [
+  "casboss"
+ ],
+ "CAP.DGO": [
+  "caspad"
+ ],
+ "CAS.DGO": [
+  "castle"
+ ],
+ "CASCITY.DGO": [
+  "cascity"
+ ],
+ "CASEXT.DGO": [
+  "casext"
+ ],
+ "CFA.DGO": [
+  "ctyfarma"
+ ],
+ "CFB.DGO": [
+  "ctyfarmb"
+ ],
+ "CGA.DGO": [
+  "ctygena"
+ ],
+ "CGB.DGO": [
+  "ctygenb"
+ ],
+ "CGC.DGO": [
+  "ctygenc"
+ ],
+ "CHARTEST.DGO": [
+  "chartest"
+ ],
+ "CIA.DGO": [
+  "ctyinda"
+ ],
+ "CIB.DGO": [
+  "ctyindb"
+ ],
+ "CMA.DGO": [
+  "ctymarka"
+ ],
+ "CMB.DGO": [
+  "ctymarkb"
+ ],
+ "COA.DGO": [
+  "consite"
+ ],
+ "COB.DGO": [
+  "consiteb"
+ ],
+ "CPA.DGO": [
+  "ctypal"
+ ],
+ "CPO.DGO": [
+  "ctyport"
+ ],
+ "CTA.DGO": [
+  "ctysluma"
+ ],
+ "CTB.DGO": [
+  "ctyslumb"
+ ],
+ "CTC.DGO": [
+  "ctyslumc"
+ ],
+ "CTYASHA.DGO": [
+  "ctyasha"
+ ],
+ "CTYFENCE.DGO": [
+  "ctyfence"
+ ],
+ "CTYKORA.DGO": [
+  "ctykora"
+ ],
+ "CWI.DGO": [
+  "ctywide"
+ ],
+ "D3A.DGO": [
+  "dig3a"
+ ],
+ "D3B.DGO": [
+  "dig3b"
+ ],
+ "DEFAULT-LEVEL.DGO": [
+  "default-level"
+ ],
+ "DEMO.DGO": [
+  "demo"
+ ],
+ "DG1.DGO": [
+  "dig1"
+ ],
+ "DMI.DGO": [
+  "drillmid"
+ ],
+ "DPT.DGO": [
+  "dptest"
+ ],
+ "DRB.DGO": [
+  "drillb"
+ ],
+ "DRI.DGO": [
+  "drill"
+ ],
+ "DRILLMTN.DGO": [
+  "drillmtn"
+ ],
+ "EITEST.DGO": [
+  "eitest"
+ ],
+ "FDA.DGO": [
+  "fordumpa"
+ ],
+ "FDB.DGO": [
+  "fordumpb"
+ ],
+ "FEA.DGO": [
+  "forexita"
+ ],
+ "FEB.DGO": [
+  "forexitb"
+ ],
+ "FOB.DGO": [
+  "forestb"
+ ],
+ "FOR.DGO": [
+  "forest"
+ ],
+ "FORDUMPC.DGO": [
+  "fordumpc"
+ ],
+ "FORDUMPD.DGO": [
+  "fordumpd"
+ ],
+ "FRA.DGO": [
+  "forresca"
+ ],
+ "FRB.DGO": [
+  "forrescb"
+ ],
+ "GARAGE.DGO": [
+  "garage"
+ ],
+ "GGA.DGO": [
+  "gungame"
+ ],
+ "HALFPIPE.DGO": [
+  "halfpipe"
+ ],
+ "HIDEOUT.DGO": [
+  "hideout"
+ ],
+ "HIPHOG.DGO": [
+  "hiphog"
+ ],
+ "INT.DGO": [
+  "intro"
+ ],
+ "INTROCST.DGO": [
+  "introcst"
+ ],
+ "ISLAND1.DGO": [
+  "island1"
+ ],
+ "KIOSK.DGO": [
+  "kiosk"
+ ],
+ "LASHGRD.DGO": [
+  "lashgrd"
+ ],
+ "LASHTHRN.DGO": [
+  "lashthrn"
+ ],
+ "LBBUSH.DGO": [
+  "lbbush"
+ ],
+ "LBOMBBOT.DGO": [
+  "lbombbot"
+ ],
+ "LBRNERMK.DGO": [
+  "lbrnermk"
+ ],
+ "LCGUARD.DGO": [
+  "lcguard"
+ ],
+ "LCITYLOW.DGO": [
+  "lcitylow"
+ ],
+ "LDJAKBRN.DGO": [
+  "ldjakbrn"
+ ],
+ "LERBRNGD.DGO": [
+  "lerbrngd"
+ ],
+ "LERLCHAL.DGO": [
+  "lerlchal"
+ ],
+ "LERLTESS.DGO": [
+  "lerltess"
+ ],
+ "LERROL.DGO": [
+  "lerrol"
+ ],
+ "LGARCSTA.DGO": [
+  "lgarcsta"
+ ],
+ "LGUARD.DGO": [
+  "lguard"
+ ],
+ "LHELLDOG.DGO": [
+  "lhelldog"
+ ],
+ "LHIPOUT.DGO": [
+  "lhipout"
+ ],
+ "LINTCSTB.DGO": [
+  "lintcstb"
+ ],
+ "LJAKDAX.DGO": [
+  "ljakdax"
+ ],
+ "LJKDXASH.DGO": [
+  "ljkdxash"
+ ],
+ "LKEIRIFT.DGO": [
+  "lkeirift"
+ ],
+ "LKIDDOGE.DGO": [
+  "lkiddoge"
+ ],
+ "LMEETBRT.DGO": [
+  "lmeetbrt"
+ ],
+ "LOUTCSTB.DGO": [
+  "loutcstb"
+ ],
+ "LPACKAGE.DGO": [
+  "lpackage"
+ ],
+ "LPORTRUN.DGO": [
+  "lportrun"
+ ],
+ "LPOWER.DGO": [
+  "lpower"
+ ],
+ "LPROTECT.DGO": [
+  "lprotect"
+ ],
+ "LPRSNCST.DGO": [
+  "lprsncst"
+ ],
+ "LPRTRACE.DGO": [
+  "lprtrace"
+ ],
+ "LRACEBB.DGO": [
+  "lracebb"
+ ],
+ "LRACEBF.DGO": [
+  "lracebf"
+ ],
+ "LRACECB.DGO": [
+  "lracecb"
+ ],
+ "LRACECF.DGO": [
+  "lracecf"
+ ],
+ "LRACEDB.DGO": [
+  "lracedb"
+ ],
+ "LRACEDF.DGO": [
+  "lracedf"
+ ],
+ "LRACELIT.DGO": [
+  "lracelit"
+ ],
+ "LSACK.DGO": [
+  "lsack"
+ ],
+ "LSAMERGD.DGO": [
+  "lsamergd"
+ ],
+ "LSHUTTLE.DGO": [
+  "lshuttle"
+ ],
+ "LSMYSBRT.DGO": [
+  "lsmysbrt"
+ ],
+ "LTENTOB.DGO": [
+  "ltentob"
+ ],
+ "LTENTOUT.DGO": [
+  "ltentout"
+ ],
+ "LTESS.DGO": [
+  "ltess"
+ ],
+ "LTHRNOUT.DGO": [
+  "lthrnout"
+ ],
+ "LTRNKRKD.DGO": [
+  "ltrnkrkd"
+ ],
+ "LTRNTESS.DGO": [
+  "ltrntess"
+ ],
+ "LTRNYSAM.DGO": [
+  "ltrnysam"
+ ],
+ "LWHACK.DGO": [
+  "lwhack"
+ ],
+ "LWIDEA.DGO": [
+  "lwidea"
+ ],
+ "LWIDEB.DGO": [
+  "lwideb"
+ ],
+ "LWIDEC.DGO": [
+  "lwidec"
+ ],
+ "LWIDESTA.DGO": [
+  "lwidesta"
+ ],
+ "LYSAMSAM.DGO": [
+  "lysamsam"
+ ],
+ "LYSKDCD.DGO": [
+  "lyskdcd"
+ ],
+ "MCN.DGO": [
+  "mincan"
+ ],
+ "MIKETEST.DGO": [
+  "miketest"
+ ],
+ "MTN.DGO": [
+  "mountain"
+ ],
+ "MTX.DGO": [
+  "mtnext"
+ ],
+ "NEB.DGO": [
+  "nestb"
+ ],
+ "NES.DGO": [
+  "nest"
+ ],
+ "ONINTENT.DGO": [
+  "onintent"
+ ],
+ "ORACLE.DGO": [
+  "oracle"
+ ],
+ "OUTROCST.DGO": [
+  "outrocst"
+ ],
+ "PAC.DGO": [
+  "palcab"
+ ],
+ "PAE.DGO": [
+  "palent"
+ ],
+ "PALBOSS.DGO": [
+  "palboss"
+ ],
+ "PALOUT.DGO": [
+  "palout"
+ ],
+ "PAR.DGO": [
+  "palroof"
+ ],
+ "PAS.DGO": [
+  "palshaft"
+ ],
+ "PORTWALL.DGO": [
+  "portwall"
+ ],
+ "PRI.DGO": [
+  "prison"
+ ],
+ "RUI.DGO": [
+  "ruins"
+ ],
+ "SAG.DGO": [
+  "sagehut"
+ ],
+ "SEB.DGO": [
+  "sewerb"
+ ],
+ "SEW.DGO": [
+  "sewer"
+ ],
+ "SKA.DGO": [
+  "skatea"
+ ],
+ "SKATEPARK.DGO": [
+  "skatepark"
+ ],
+ "STA.DGO": [
+  "stadium"
+ ],
+ "STADBLMP.DGO": [
+  "stadblmp"
+ ],
+ "STADOCC.DGO": [
+  "stadocc"
+ ],
+ "STB.DGO": [
+  "stadiumb"
+ ],
+ "STC.DGO": [
+  "stadiumc"
+ ],
+ "STD.DGO": [
+  "stadiumd"
+ ],
+ "STR.DGO": [
+  "strip"
+ ],
+ "SWB.DGO": [
+  "sewescb"
+ ],
+ "SWE.DGO": [
+  "sewesc"
+ ],
+ "TATETEST.DGO": [
+  "tatetest"
+ ],
+ "TBO.DGO": [
+  "tombboss"
+ ],
+ "TESTSTDC.DGO": [
+  "teststdc"
+ ],
+ "TESTSTDD.DGO": [
+  "teststdd"
+ ],
+ "THR.DGO": [
+  "throne"
+ ],
+ "TITLE.DGO": [
+  "title"
+ ],
+ "TOA.DGO": [
+  "tomba"
+ ],
+ "TOB.DGO": [
+  "tombb"
+ ],
+ "TOBYTEST.DGO": [
+  "tobytest"
+ ],
+ "TOC.DGO": [
+  "tombc"
+ ],
+ "TOD.DGO": [
+  "tombd"
+ ],
+ "TOE.DGO": [
+  "tombe"
+ ],
+ "TOMBEXT.DGO": [
+  "tombext"
+ ],
+ "TSZ.DGO": [
+  "test-zone"
+ ],
+ "UNB.DGO": [
+  "underb"
+ ],
+ "UND.DGO": [
+  "under"
+ ],
+ "VI1.DGO": [
+  "village1"
+ ],
+ "VIN.DGO": [
+  "vinroom"
+ ],
+ "VIS.DGO": [
+  "vistest"
+ ],
+ "WASALL.DGO": [
+  "wasall"
+ ],
+ "WOODSTEST.DGO": [
+  "woodstest"
+ ]
+}

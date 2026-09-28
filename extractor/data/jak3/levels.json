@@ -1,0 +1,890 @@
+{
+ "4AMY.DGO": [
+  "4amy"
+ ],
+ "ARENACST.DGO": [
+  "arenacst"
+ ],
+ "BIKEARENA.DGO": [
+  "bikearena"
+ ],
+ "BSBS.DGO": [
+  "bsbs"
+ ],
+ "CFA.DGO": [
+  "ctyfarma"
+ ],
+ "CFB.DGO": [
+  "ctyfarmb"
+ ],
+ "CGB.DGO": [
+  "ctygenb"
+ ],
+ "CHARTEST.DGO": [
+  "chartest"
+ ],
+ "CIA.DGO": [
+  "ctyinda"
+ ],
+ "CIB.DGO": [
+  "ctyindb"
+ ],
+ "CITYCAST.DGO": [
+  "citycast"
+ ],
+ "CITYLOW.DGO": [
+  "citylow"
+ ],
+ "COMBA.DGO": [
+  "comba"
+ ],
+ "COMBB.DGO": [
+  "combb"
+ ],
+ "COMBC.DGO": [
+  "combc"
+ ],
+ "COMBD.DGO": [
+  "combd"
+ ],
+ "COMBE.DGO": [
+  "combe"
+ ],
+ "COMBM.DGO": [
+  "combm"
+ ],
+ "COMBN.DGO": [
+  "combn"
+ ],
+ "COMBX.DGO": [
+  "combx"
+ ],
+ "CPO.DGO": [
+  "ctyport"
+ ],
+ "CTA.DGO": [
+  "ctysluma"
+ ],
+ "CTB.DGO": [
+  "ctyslumb"
+ ],
+ "CTC.DGO": [
+  "ctyslumc"
+ ],
+ "CTYCARA.DGO": [
+  "ctycara"
+ ],
+ "CTYCARB.DGO": [
+  "ctycarb"
+ ],
+ "CTYCARC.DGO": [
+  "ctycarc"
+ ],
+ "CTYCARKG.DGO": [
+  "ctycarkg"
+ ],
+ "CTYFENCE.DGO": [
+  "ctyfence"
+ ],
+ "CTYPEPA.DGO": [
+  "ctypepa"
+ ],
+ "CTYPEPB.DGO": [
+  "ctypepb"
+ ],
+ "CTYPEPC.DGO": [
+  "ctypepc"
+ ],
+ "CTYPESA.DGO": [
+  "ctypesa"
+ ],
+ "CTYPESB.DGO": [
+  "ctypesb"
+ ],
+ "CTYPESC.DGO": [
+  "ctypesc"
+ ],
+ "CTYWIDE-FF-KG.DGO": [
+  "ctywide-ff-kg"
+ ],
+ "CTYWIDE-FF-MH.DGO": [
+  "ctywide-ff-mh"
+ ],
+ "CTYWIDE-FF.DGO": [
+  "ctywide-ff"
+ ],
+ "CTYWIDE-KG.DGO": [
+  "ctywide-kg"
+ ],
+ "CTYWIDE-MH-KG.DGO": [
+  "ctywide-mh-kg"
+ ],
+ "CTYWIDE-MH.DGO": [
+  "ctywide-mh"
+ ],
+ "CWI.DGO": [
+  "ctywide"
+ ],
+ "DEFAULT-LEVEL.DGO": [
+  "default-level"
+ ],
+ "DESA.DGO": [
+  "deserta"
+ ],
+ "DESB.DGO": [
+  "desertb"
+ ],
+ "DESBATTL.DGO": [
+  "desbattl"
+ ],
+ "DESBCST.DGO": [
+  "desbcst"
+ ],
+ "DESBOSS1.DGO": [
+  "desboss1"
+ ],
+ "DESBOSS2.DGO": [
+  "desboss2"
+ ],
+ "DESC.DGO": [
+  "desertc"
+ ],
+ "DESCHASE.DGO": [
+  "deschase"
+ ],
+ "DESD.DGO": [
+  "desertd"
+ ],
+ "DESE.DGO": [
+  "deserte"
+ ],
+ "DESERROL.DGO": [
+  "deserrol"
+ ],
+ "DESERT-GAME.DGO": [
+  "desert-game"
+ ],
+ "DESF.DGO": [
+  "desertf"
+ ],
+ "DESG.DGO": [
+  "desertg"
+ ],
+ "DESH.DGO": [
+  "deserth"
+ ],
+ "DESHOVER.DGO": [
+  "deshover"
+ ],
+ "DESHUNT.DGO": [
+  "deshunt"
+ ],
+ "DESINTER.DGO": [
+  "desinter"
+ ],
+ "DESJUMP.DGO": [
+  "desjump"
+ ],
+ "DESLIZ.DGO": [
+  "desliz"
+ ],
+ "DESOASIS.DGO": [
+  "desoasis"
+ ],
+ "DESRACE1.DGO": [
+  "desrace1"
+ ],
+ "DESRALLY.DGO": [
+  "desrally"
+ ],
+ "DESRESC.DGO": [
+  "desresc"
+ ],
+ "DESRESCC.DGO": [
+  "desrescc"
+ ],
+ "DESRESCG.DGO": [
+  "desrescg"
+ ],
+ "DESTRACK.DGO": [
+  "destrack"
+ ],
+ "DESW.DGO": [
+  "deswalk"
+ ],
+ "DST.DGO": [
+  "desert"
+ ],
+ "FACB.DGO": [
+  "factoryb"
+ ],
+ "FACC.DGO": [
+  "factoryc"
+ ],
+ "FACD.DGO": [
+  "factoryd"
+ ],
+ "FACTORYA.DGO": [
+  "factorya"
+ ],
+ "FREECAST.DGO": [
+  "freecast"
+ ],
+ "FREEHQ.DGO": [
+  "freehq"
+ ],
+ "FRSTA.DGO": [
+  "foresta"
+ ],
+ "FRSTB.DGO": [
+  "forestb"
+ ],
+ "FRSTX.DGO": [
+  "forestx"
+ ],
+ "GGA.DGO": [
+  "gungame"
+ ],
+ "GREGTEST.DGO": [
+  "gregtest"
+ ],
+ "GRIDCST.DGO": [
+  "gridcst"
+ ],
+ "GUNGAME1.DGO": [
+  "gungame1"
+ ],
+ "GUNGAME2.DGO": [
+  "gungame2"
+ ],
+ "HALFPIPE.DGO": [
+  "halfpipe"
+ ],
+ "HERMTEST.DGO": [
+  "hermtest"
+ ],
+ "HGA.DGO": [
+  "hanga"
+ ],
+ "HGB.DGO": [
+  "hangb"
+ ],
+ "HHG.DGO": [
+  "hiphog"
+ ],
+ "INT.DGO": [
+  "intro"
+ ],
+ "INTPALRF.DGO": [
+  "intpalrf"
+ ],
+ "INTROCST.DGO": [
+  "introcst"
+ ],
+ "INTTITLE.DGO": [
+  "inttitle"
+ ],
+ "IPF.DGO": [
+  "intpfall"
+ ],
+ "LASHELIN.DGO": [
+  "lashelin"
+ ],
+ "LBBRING1.DGO": [
+  "lbbring1"
+ ],
+ "LBBRING2.DGO": [
+  "lbbring2"
+ ],
+ "LBBRING3.DGO": [
+  "lbbring3"
+ ],
+ "LBBRING4.DGO": [
+  "lbbring4"
+ ],
+ "LBBRING5.DGO": [
+  "lbbring5"
+ ],
+ "LBBRING6.DGO": [
+  "lbbring6"
+ ],
+ "LBBRING7.DGO": [
+  "lbbring7"
+ ],
+ "LBBSDRP1.DGO": [
+  "lbbsdrp1"
+ ],
+ "LBBSDRP2.DGO": [
+  "lbbsdrp2"
+ ],
+ "LBBSDRP3.DGO": [
+  "lbbsdrp3"
+ ],
+ "LBBSPID.DGO": [
+  "lbbspid"
+ ],
+ "LBBSPIRT.DGO": [
+  "lbbspirt"
+ ],
+ "LBBSPRT2.DGO": [
+  "lbbsprt2"
+ ],
+ "LBBSPRT3.DGO": [
+  "lbbsprt3"
+ ],
+ "LBBTCHA1.DGO": [
+  "lbbtcha1"
+ ],
+ "LBBTCHA2.DGO": [
+  "lbbtcha2"
+ ],
+ "LBBTCHA3.DGO": [
+  "lbbtcha3"
+ ],
+ "LBBUSH.DGO": [
+  "lbbush"
+ ],
+ "LBIPED.DGO": [
+  "lbiped"
+ ],
+ "LBLOWCST.DGO": [
+  "lblowcst"
+ ],
+ "LBLOWTKG.DGO": [
+  "lblowtkg"
+ ],
+ "LBLOWTMH.DGO": [
+  "lblowtmh"
+ ],
+ "LBOMBBOT.DGO": [
+  "lbombbot"
+ ],
+ "LCITYSML.DGO": [
+  "lcitysml"
+ ],
+ "LCTYASS.DGO": [
+  "lctyass"
+ ],
+ "LCTYBLOW.DGO": [
+  "lctyblow"
+ ],
+ "LCTYDEST.DGO": [
+  "lctydest"
+ ],
+ "LCTYHIJK.DGO": [
+  "lctyhijk"
+ ],
+ "LCTYPALT.DGO": [
+  "lctypalt"
+ ],
+ "LCTYPATK.DGO": [
+  "lctypatk"
+ ],
+ "LCTYPROT.DGO": [
+  "lctyprot"
+ ],
+ "LCTYSNPR.DGO": [
+  "lctysnpr"
+ ],
+ "LDAMKLEV.DGO": [
+  "ldamklev"
+ ],
+ "LDAMPECK.DGO": [
+  "ldampeck"
+ ],
+ "LDAMPKSM.DGO": [
+  "ldampksm"
+ ],
+ "LDAMSIG.DGO": [
+  "ldamsig"
+ ],
+ "LDESGCST.DGO": [
+  "ldesgcst"
+ ],
+ "LDMPCKGN.DGO": [
+  "ldmpckgn"
+ ],
+ "LERROL.DGO": [
+  "lerrol"
+ ],
+ "LFACB.DGO": [
+  "lfacctyb"
+ ],
+ "LFACCAR.DGO": [
+  "lfaccar"
+ ],
+ "LFACCITY.DGO": [
+  "lfaccity"
+ ],
+ "LFACO.DGO": [
+  "lfacout"
+ ],
+ "LFACRM1.DGO": [
+  "lfacrm1"
+ ],
+ "LFACRM2.DGO": [
+  "lfacrm2"
+ ],
+ "LFACTORY.DGO": [
+  "lfactory"
+ ],
+ "LFORM.DGO": [
+  "lformach"
+ ],
+ "LFORP.DGO": [
+  "lforplnt"
+ ],
+ "LFORRING.DGO": [
+  "lforring"
+ ],
+ "LFREEOUT.DGO": [
+  "lfreeout"
+ ],
+ "LGUNNORM.DGO": [
+  "lgunnorm"
+ ],
+ "LGUNRNC.DGO": [
+  "lgunrnc"
+ ],
+ "LJAK.DGO": [
+  "ljak"
+ ],
+ "LJAKC.DGO": [
+  "ljakc"
+ ],
+ "LJAKCKLV.DGO": [
+  "ljakcklv"
+ ],
+ "LJAKKLEV.DGO": [
+  "ljakklev"
+ ],
+ "LJAKNDAX.DGO": [
+  "ljakndax"
+ ],
+ "LJAKSIG.DGO": [
+  "ljaksig"
+ ],
+ "LJINX.DGO": [
+  "ljinx"
+ ],
+ "LJKCDMKL.DGO": [
+  "ljkcdmkl"
+ ],
+ "LJKDMPK.DGO": [
+  "ljkdmpk"
+ ],
+ "LJKDXVIN.DGO": [
+  "ljkdxvin"
+ ],
+ "LJKFEET.DGO": [
+  "ljkfeet"
+ ],
+ "LJNDKLEV.DGO": [
+  "ljndklev"
+ ],
+ "LKLEEVER.DGO": [
+  "lkleever"
+ ],
+ "LMECH.DGO": [
+  "lmech"
+ ],
+ "LMHCA.DGO": [
+  "lmhcitya"
+ ],
+ "LMHCB.DGO": [
+  "lmhcityb"
+ ],
+ "LNSTCST.DGO": [
+  "lnstcst"
+ ],
+ "LNSTOA.DGO": [
+  "lnstoba"
+ ],
+ "LNSTOBB.DGO": [
+  "lnstobb"
+ ],
+ "LNSTOBC.DGO": [
+  "lnstobc"
+ ],
+ "LONINSIM.DGO": [
+  "loninsim"
+ ],
+ "LOUTRO.DGO": [
+  "loutro"
+ ],
+ "LOUTRO2.DGO": [
+  "loutro2"
+ ],
+ "LOUTRO3.DGO": [
+  "loutro3"
+ ],
+ "LPATK.DGO": [
+  "lpattack"
+ ],
+ "LPATKCS.DGO": [
+  "lpatkcs"
+ ],
+ "LPECKFLY.DGO": [
+  "lpeckfly"
+ ],
+ "LPRECC.DGO": [
+  "lprecurc"
+ ],
+ "LPRENME.DGO": [
+  "lprenme"
+ ],
+ "LPTRL.DGO": [
+  "lppatrol"
+ ],
+ "LSAMOS.DGO": [
+  "lsamos"
+ ],
+ "LSEEMWCA.DGO": [
+  "lseemwca"
+ ],
+ "LSIG.DGO": [
+  "lsig"
+ ],
+ "LSIGJAKC.DGO": [
+  "lsigjakc"
+ ],
+ "LSIGKLV.DGO": [
+  "lsigklv"
+ ],
+ "LSNKWHLS.DGO": [
+  "lsnkwhls"
+ ],
+ "LTNFXHIP.DGO": [
+  "ltnfxhip"
+ ],
+ "LTNJXHIP.DGO": [
+  "ltnjxhip"
+ ],
+ "LTORN.DGO": [
+  "ltorn"
+ ],
+ "LTORNJNX.DGO": [
+  "ltornjnx"
+ ],
+ "LTORNSAM.DGO": [
+  "ltornsam"
+ ],
+ "LTOWA.DGO": [
+  "ltowera"
+ ],
+ "LTOWB.DGO": [
+  "ltowerb"
+ ],
+ "LTOWCITY.DGO": [
+  "ltowcity"
+ ],
+ "LTRTWHLS.DGO": [
+  "ltrtwhls"
+ ],
+ "LVINCST.DGO": [
+  "lvincst"
+ ],
+ "LWASBBV.DGO": [
+  "lwasbbv"
+ ],
+ "LWASSIG.DGO": [
+  "lwassig"
+ ],
+ "LWLANDM.DGO": [
+  "lwlandm"
+ ],
+ "LWSTDPCK.DGO": [
+  "lwstdpck"
+ ],
+ "MHCA.DGO": [
+  "mhcitya"
+ ],
+ "MHCB.DGO": [
+  "mhcityb"
+ ],
+ "MHCTYCST.DGO": [
+  "mhctycst"
+ ],
+ "MIA.DGO": [
+  "minea"
+ ],
+ "MIB.DGO": [
+  "mineb"
+ ],
+ "MIC.DGO": [
+  "minec"
+ ],
+ "MINED.DGO": [
+  "mined"
+ ],
+ "MINEE.DGO": [
+  "minee"
+ ],
+ "MUSEUM.DGO": [
+  "museum"
+ ],
+ "MUSEUM2.DGO": [
+  "museum2"
+ ],
+ "MUSEUM3.DGO": [
+  "museum3"
+ ],
+ "MUSEUM3B.DGO": [
+  "museum3b"
+ ],
+ "MUSEUM4.DGO": [
+  "museum4"
+ ],
+ "MUSEUM4B.DGO": [
+  "museum4b"
+ ],
+ "NSA.DGO": [
+  "nsta"
+ ],
+ "NSB.DGO": [
+  "nstb"
+ ],
+ "OASISCST.DGO": [
+  "oasiscst"
+ ],
+ "ONINTENT.DGO": [
+  "onintent"
+ ],
+ "OUTCAST3.DGO": [
+  "outcast3"
+ ],
+ "OUTROCST.DGO": [
+  "outrocst"
+ ],
+ "POWERGD.DGO": [
+  "powergd"
+ ],
+ "PRECA.DGO": [
+  "precura"
+ ],
+ "PRECB.DGO": [
+  "precurb"
+ ],
+ "PRECC.DGO": [
+  "precurc"
+ ],
+ "PRECD.DGO": [
+  "precurd"
+ ],
+ "RAILA.DGO": [
+  "raila"
+ ],
+ "RAILB.DGO": [
+  "railb"
+ ],
+ "RAILB2.DGO": [
+  "railb2"
+ ],
+ "RAILC.DGO": [
+  "railc"
+ ],
+ "RAILCST.DGO": [
+  "railcst"
+ ],
+ "RAILD.DGO": [
+  "raild"
+ ],
+ "RAILE.DGO": [
+  "raile"
+ ],
+ "RAILF.DGO": [
+  "railf"
+ ],
+ "RAILX.DGO": [
+  "railx"
+ ],
+ "RBCT.DGO": [
+  "rublcst"
+ ],
+ "RUBA.DGO": [
+  "rubblea"
+ ],
+ "RUBA2.DGO": [
+  "rubblea2"
+ ],
+ "RUBB.DGO": [
+  "rubbleb"
+ ],
+ "RUBC.DGO": [
+  "rubblec"
+ ],
+ "SEA.DGO": [
+  "sewa"
+ ],
+ "SEB.DGO": [
+  "sewb"
+ ],
+ "SEC.DGO": [
+  "sewc"
+ ],
+ "SED.DGO": [
+  "sewd"
+ ],
+ "SEE.DGO": [
+  "sewe"
+ ],
+ "SEF.DGO": [
+  "sewf"
+ ],
+ "SEG.DGO": [
+  "sewg"
+ ],
+ "SEH.DGO": [
+  "sewh"
+ ],
+ "SEI.DGO": [
+  "sewi"
+ ],
+ "SEJ.DGO": [
+  "sewj"
+ ],
+ "SEK.DGO": [
+  "sewk"
+ ],
+ "SEL.DGO": [
+  "sewl"
+ ],
+ "SEM.DGO": [
+  "sewm"
+ ],
+ "SEN.DGO": [
+  "sewn"
+ ],
+ "SEO.DGO": [
+  "sewo"
+ ],
+ "SLUMBSET.DGO": [
+  "slumbset"
+ ],
+ "SNDTEST.DGO": [
+  "sndtest"
+ ],
+ "STA.DGO": [
+  "stadium"
+ ],
+ "STAA.DGO": [
+  "stadiuma"
+ ],
+ "STB.DGO": [
+  "stadiumb"
+ ],
+ "TEMA.DGO": [
+  "templea"
+ ],
+ "TEMB.DGO": [
+  "templeb"
+ ],
+ "TEMC.DGO": [
+  "templec"
+ ],
+ "TEMD.DGO": [
+  "templed"
+ ],
+ "TEMP.DGO": [
+  "temp"
+ ],
+ "TEMPLEE.DGO": [
+  "templee"
+ ],
+ "TEMX.DGO": [
+  "templex"
+ ],
+ "TESTISLE.DGO": [
+  "testisle"
+ ],
+ "TITLE.DGO": [
+  "title"
+ ],
+ "TOBYTEST.DGO": [
+  "tobytest"
+ ],
+ "TOWB.DGO": [
+  "towerb"
+ ],
+ "TOWERA.DGO": [
+  "towera"
+ ],
+ "TOWERC.DGO": [
+  "towerc"
+ ],
+ "TOWERCST.DGO": [
+  "towercst"
+ ],
+ "TSZ.DGO": [
+  "test-zone"
+ ],
+ "VIN.DGO": [
+  "vinroom"
+ ],
+ "VIS.DGO": [
+  "vistest"
+ ],
+ "VOCA.DGO": [
+  "volcanoa"
+ ],
+ "VOCX.DGO": [
+  "volcanox"
+ ],
+ "WARINTA.DGO": [
+  "warinta"
+ ],
+ "WARPCAST.DGO": [
+  "warpcast"
+ ],
+ "WASALL.DGO": [
+  "wasall"
+ ],
+ "WASCAST.DGO": [
+  "wascast"
+ ],
+ "WASCHASE.DGO": [
+  "waschase"
+ ],
+ "WASDEFEN.DGO": [
+  "wasdefen"
+ ],
+ "WASLEAPR.DGO": [
+  "wasleapr"
+ ],
+ "WASPALA.DGO": [
+  "waspala"
+ ],
+ "WASPGAME.DGO": [
+  "waspgame"
+ ],
+ "WASSEEM.DGO": [
+  "wasseem"
+ ],
+ "WASSTADA.DGO": [
+  "wasstada"
+ ],
+ "WASSTADB.DGO": [
+  "wasstadb"
+ ],
+ "WASSTADC.DGO": [
+  "wasstadc"
+ ],
+ "WCA.DGO": [
+  "wascitya"
+ ],
+ "WCASEEM.DGO": [
+  "wcaseem"
+ ],
+ "WCB.DGO": [
+  "wascityb"
+ ],
+ "WIN.DGO": [
+  "wasintro"
+ ],
+ "WSD.DGO": [
+  "wasdoors"
+ ],
+ "WWD.DGO": [
+  "waswide"
+ ]
+}

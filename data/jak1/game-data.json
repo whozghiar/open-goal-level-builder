@@ -1,0 +1,2668 @@
+{
+ "format": 1,
+ "game": "jak1",
+ "source": "tools/gen_game_data.py, from goal_src/jak1 of open-goal/jak-project and extractor/data/jak1/all-types.gc",
+ "actors": {
+  "roles": {
+   "anim-tester": "logic",
+   "aphid": "creature",
+   "arcing-shot": "creature",
+   "assistant": "creature",
+   "assistant-bluehut": "creature",
+   "assistant-firecanyon": "creature",
+   "assistant-lavatube-end": "creature",
+   "assistant-lavatube-start": "creature",
+   "assistant-levitator": "creature",
+   "assistant-villagec": "creature",
+   "auto-save": "logic",
+   "babak": "creature",
+   "babak-with-cannon": "creature",
+   "baby-spider": "creature",
+   "baseplat": "creature",
+   "battlecontroller": "logic",
+   "beach-part": "logic",
+   "beach-rock": "creature",
+   "beachcam": "logic",
+   "billy": "creature",
+   "billy-rat": "creature",
+   "billy-snack": "creature",
+   "bird-lady": "creature",
+   "bird-lady-beach": "creature",
+   "blue-sagecage": "creature",
+   "bonelurker": "creature",
+   "breakaway": "creature",
+   "bully": "creature",
+   "cam-layout": "logic",
+   "camera-combiner": "logic",
+   "camera-master": "logic",
+   "camera-slave": "logic",
+   "camera-start": "logic",
+   "camera-tracker": "logic",
+   "camera-voicebox": "logic",
+   "cave-trap": "creature",
+   "cave-water": "logic",
+   "caveflamepots": "creature",
+   "cavegeyserrock": "creature",
+   "citb-arm": "creature",
+   "citb-arm-section": "creature",
+   "citb-arm-shoulder": "creature",
+   "citb-battlecontroller": "logic",
+   "citb-bunny": "creature",
+   "citb-chains": "logic",
+   "citb-disc": "creature",
+   "citb-drop-plat": "creature",
+   "citb-part": "logic",
+   "citb-sage": "creature",
+   "collectable": "creature",
+   "dark-eco-pool": "logic",
+   "darkcave-part": "logic",
+   "double-lurker": "creature",
+   "double-lurker-top": "creature",
+   "eco": "creature",
+   "eco-blue": "creature",
+   "eco-collectable": "creature",
+   "eco-door": "creature",
+   "eco-pill": "creature",
+   "eco-red": "creature",
+   "eco-yellow": "creature",
+   "ecovent": "creature",
+   "evilbro": "creature",
+   "evilsis": "creature",
+   "explorer": "creature",
+   "farmer": "creature",
+   "fin-door": "logic",
+   "final-door": "creature",
+   "finalbosscam": "creature",
+   "fireboulder": "creature",
+   "firecanyon-part": "logic",
+   "first-person-hud": "logic",
+   "fisher": "creature",
+   "fishermans-boat": "creature",
+   "fleeing-nav-enemy": "creature",
+   "flutflut": "creature",
+   "flutflut-bluehut": "creature",
+   "flutflutegg": "creature",
+   "flying-lurker": "creature",
+   "fuel-cell": "creature",
+   "gambler": "creature",
+   "geologist": "creature",
+   "gorge": "creature",
+   "gorge-abort": "creature",
+   "gorge-finish": "creature",
+   "gorge-start": "creature",
+   "green-eco-lurker": "creature",
+   "green-eco-lurker-gen": "creature",
+   "green-sagecage": "creature",
+   "health": "creature",
+   "helix-dark-eco": "logic",
+   "helix-water": "creature",
+   "hopper": "creature",
+   "hud": "logic",
+   "hud-bike-heat": "logic",
+   "hud-bike-speed": "logic",
+   "hud-buzzers": "logic",
+   "hud-fuel-cell": "logic",
+   "hud-health": "logic",
+   "hud-money": "logic",
+   "hud-money-all": "logic",
+   "hud-pickups": "logic",
+   "hud-power": "logic",
+   "ice-cube": "creature",
+   "joint-exploder": "creature",
+   "jungle-part": "logic",
+   "jungle-water": "logic",
+   "junglecam": "logic",
+   "junglefish": "creature",
+   "kermit": "creature",
+   "kermit-pulse": "creature",
+   "launcher": "creature",
+   "lava": "logic",
+   "lavatube-lava": "logic",
+   "lavatube-part": "logic",
+   "level-hint": "logic",
+   "lightning-mole": "creature",
+   "list-keeper": "logic",
+   "logo-slave": "creature",
+   "lurkercrab": "creature",
+   "lurkerpuppy": "creature",
+   "lurkerworm": "creature",
+   "maincave-part": "logic",
+   "maincavecam": "logic",
+   "manipy": "logic",
+   "mayor": "creature",
+   "med-res-level": "creature",
+   "minershort": "creature",
+   "minertall": "creature",
+   "misty-battlecontroller": "logic",
+   "misty-part": "logic",
+   "mistycam": "logic",
+   "mother-spider": "creature",
+   "mother-spider-egg": "creature",
+   "mother-spider-proj": "creature",
+   "mud": "logic",
+   "muse": "creature",
+   "nav-enemy": "creature",
+   "ogre-isle": "creature",
+   "ogre-lava": "logic",
+   "ogre-part": "logic",
+   "ogre-plat": "creature",
+   "ogre-step": "creature",
+   "ogreboss": "creature",
+   "ogreboss-village2": "creature",
+   "oracle": "creature",
+   "othercam": "logic",
+   "part-spawner": "logic",
+   "part-tester": "logic",
+   "part-tracker": "logic",
+   "peeper": "creature",
+   "pelican": "creature",
+   "plant-boss": "creature",
+   "pontoon": "creature",
+   "pov-camera": "logic",
+   "precurbridgecam": "logic",
+   "process": "logic",
+   "process-drawable": "creature",
+   "process-drawable-reserved": "logic",
+   "process-hidden": "logic",
+   "process-taskable": "creature",
+   "progress": "logic",
+   "projectile": "creature",
+   "projectile-blue": "creature",
+   "projectile-yellow": "creature",
+   "puffer": "creature",
+   "pusher-base": "creature",
+   "qbert-plat-on": "creature",
+   "quicksandlurker-missile": "creature",
+   "racer": "creature",
+   "ram-boss": "creature",
+   "ram-boss-proj": "creature",
+   "red-sagecage": "creature",
+   "redshot": "creature",
+   "reflector-end": "creature",
+   "reflector-origin": "creature",
+   "rigid-body-platform": "creature",
+   "robocave-part": "logic",
+   "robotboss": "creature",
+   "rolling-part": "logic",
+   "rolling-water": "logic",
+   "rollingcam": "logic",
+   "ropebridge": "creature",
+   "sage": "creature",
+   "sage-bluehut": "creature",
+   "sage-finalboss": "creature",
+   "sage-villagec": "creature",
+   "sculptor": "creature",
+   "seagull": "creature",
+   "seagullflock": "logic",
+   "sequenceA": "logic",
+   "sequenceA-village1": "creature",
+   "sequenceB": "creature",
+   "sequenceC": "creature",
+   "sharkey": "creature",
+   "sidekick": "creature",
+   "silodoor": "creature",
+   "slide-control": "creature",
+   "snow-ball": "logic",
+   "snow-bunny": "creature",
+   "snow-part": "logic",
+   "snowcam": "logic",
+   "spider-egg": "creature",
+   "spider-vent": "creature",
+   "starfish": "creature",
+   "static-screen": "logic",
+   "sunken-part": "logic",
+   "sunken-water": "logic",
+   "sunkencam": "logic",
+   "swamp-bat": "creature",
+   "swamp-battlecontroller": "logic",
+   "swamp-part": "logic",
+   "swamp-rat": "creature",
+   "swamp-rat-nest": "creature",
+   "swamp-rat-nest-dummy": "creature",
+   "swamp-rat-nest-dummy-a": "creature",
+   "swamp-rat-nest-dummy-b": "creature",
+   "swamp-rat-nest-dummy-c": "creature",
+   "swampcam": "logic",
+   "swingpole": "logic",
+   "target": "creature",
+   "target-start": "logic",
+   "time-of-day-proc": "logic",
+   "touch-tracker": "logic",
+   "training-cam": "logic",
+   "training-part": "logic",
+   "training-water": "logic",
+   "vent": "creature",
+   "ventblue": "creature",
+   "ventred": "creature",
+   "ventyellow": "creature",
+   "viewer": "logic",
+   "villa-fisha": "creature",
+   "villa-fishb": "creature",
+   "villa-starfish": "creature",
+   "village-cam": "logic",
+   "village-fish": "creature",
+   "village2cam": "logic",
+   "villagea-part": "logic",
+   "villagea-water": "logic",
+   "villageb-ogreboss": "creature",
+   "villageb-part": "logic",
+   "villageb-water": "logic",
+   "villagec-lava": "logic",
+   "villagec-part": "logic",
+   "voicebox": "logic",
+   "warp-gate": "creature",
+   "warpgate": "logic",
+   "warrior": "creature",
+   "water-anim": "logic",
+   "water-vol": "logic",
+   "water-vol-deadly": "logic",
+   "wedge-plat-master": "logic",
+   "yellow-sagecage": "creature",
+   "yellowshot": "creature",
+   "yeti": "creature",
+   "yeti-slave": "creature"
+  },
+  "creature_suffixes": [
+   "-highres"
+  ],
+  "water_types": [
+   "cave-water",
+   "dark-eco-pool",
+   "helix-dark-eco",
+   "jungle-water",
+   "lava",
+   "lavatube-lava",
+   "mud",
+   "ogre-lava",
+   "rolling-water",
+   "sunken-water",
+   "training-water",
+   "villagea-water",
+   "villageb-water",
+   "villagec-lava",
+   "water-anim"
+  ],
+  "objects": {
+   "accordian": "other",
+   "allpontoons": "other",
+   "balance-plat": "platform",
+   "balloon": "other",
+   "balloonlurker": "platform",
+   "balloonlurker-pilot": "other",
+   "barrel": "crate",
+   "basebutton": "button",
+   "bladeassm": "other",
+   "blocking-plane": "other",
+   "blue-eco-charger": "other",
+   "blue-eco-charger-orb": "other",
+   "boat-fuelcell": "other",
+   "boatpaddle": "other",
+   "bone-platform": "platform",
+   "breakaway-left": "breakable",
+   "breakaway-mid": "breakable",
+   "breakaway-right": "breakable",
+   "bucket": "crate",
+   "bully-broken-cage": "other",
+   "buzzer": "collectable",
+   "cavecrusher": "other",
+   "cavecrystal": "other",
+   "caveelevator": "platform",
+   "cavegem": "other",
+   "cavespatula": "other",
+   "cavespatulatwo": "other",
+   "cavetrapdoor": "door",
+   "ceilingflag": "other",
+   "chainmine": "other",
+   "citadelcam": "other",
+   "citb-arm-a": "other",
+   "citb-arm-b": "other",
+   "citb-arm-c": "other",
+   "citb-arm-d": "other",
+   "citb-arm-shoulder-a": "other",
+   "citb-arm-shoulder-b": "other",
+   "citb-base-plat": "platform",
+   "citb-button": "button",
+   "citb-chain-plat": "platform",
+   "citb-coil": "other",
+   "citb-disc-a": "other",
+   "citb-disc-b": "other",
+   "citb-disc-c": "other",
+   "citb-disc-d": "other",
+   "citb-donut": "other",
+   "citb-exit-plat": "platform",
+   "citb-firehose": "other",
+   "citb-generator": "other",
+   "citb-hose": "other",
+   "citb-iris-door": "door",
+   "citb-launcher": "platform",
+   "citb-plat": "platform",
+   "citb-plat-eco": "platform",
+   "citb-robotboss": "other",
+   "citb-rotatebox": "other",
+   "citb-sagecage": "other",
+   "citb-stair-plat": "platform",
+   "citb-stopbox": "platform",
+   "crate": "crate",
+   "crate-buzzer": "crate",
+   "crate-darkeco-cluster": "crate",
+   "dark-crystal": "other",
+   "dark-plant": "other",
+   "darkecobarrel": "breakable",
+   "darkecobarrel-base": "breakable",
+   "darkecobarrel-mover": "breakable",
+   "darkecobomb": "other",
+   "darkvine": "other",
+   "driller-lurker": "other",
+   "drop-plat": "platform",
+   "ecoclaw": "other",
+   "ecovalve": "other",
+   "ecoventrock": "other",
+   "eggtop": "other",
+   "energyarm": "other",
+   "energyball": "other",
+   "energybase": "other",
+   "energydoor": "door",
+   "energyhub": "other",
+   "energylava": "water",
+   "evilplant": "other",
+   "exit-chamber": "other",
+   "exit-chamber-button": "button",
+   "exit-chamber-dummy": "other",
+   "fisher-fish": "other",
+   "floating-launcher": "platform",
+   "flutflut-plat": "platform",
+   "flutflut-plat-large": "platform",
+   "flutflut-plat-med": "platform",
+   "flutflut-plat-small": "platform",
+   "flying-rock": "other",
+   "gnawer": "other",
+   "gnawer-falling-segment": "other",
+   "gondola": "other",
+   "gondolacables": "other",
+   "gorge-pusher": "other",
+   "greenshot": "other",
+   "grottopole": "other",
+   "happy-plant": "other",
+   "harvester": "other",
+   "helix-button": "button",
+   "helix-slide-door": "door",
+   "hutlamp": "light",
+   "jngpusher": "other",
+   "jungle-elevator": "platform",
+   "junglesnake": "other",
+   "keg": "other",
+   "keg-conveyor": "other",
+   "keg-conveyor-paddle": "other",
+   "launcherdoor": "door",
+   "lavaballoon": "water",
+   "lavabase": "water",
+   "lavafall": "water",
+   "lavafallsewera": "water",
+   "lavafallsewerb": "water",
+   "lavashortcut": "water",
+   "lavayellowtarp": "water",
+   "light-eco-child": "light",
+   "light-eco-mother": "light",
+   "logo": "other",
+   "logtrap": "other",
+   "lrocklrg": "other",
+   "lurkerm-piston": "other",
+   "lurkerm-short-sail": "other",
+   "lurkerm-tall-sail": "other",
+   "maindoor": "door",
+   "mayorgears": "other",
+   "minecartsteel": "other",
+   "mis-bone-bridge": "platform",
+   "mistycannon": "other",
+   "mistycannon-missile": "other",
+   "money": "collectable",
+   "mother-spider-leg": "other",
+   "ogre-bridge": "platform",
+   "ogre-bridgeend": "platform",
+   "ogre-isle-b": "platform",
+   "ogre-isle-c": "platform",
+   "ogre-isle-d": "platform",
+   "ogre-step-a": "platform",
+   "ogre-step-b": "platform",
+   "ogre-step-c": "platform",
+   "ogre-step-d": "platform",
+   "ogreboss-bounce-boulder": "other",
+   "ogreboss-missile": "other",
+   "ogreboss-super-boulder": "other",
+   "orb-cache-top": "platform",
+   "orbit-plat": "platform",
+   "orbit-plat-bottom": "platform",
+   "periscope": "other",
+   "pickup-spawner": "crate",
+   "pistons": "other",
+   "plant-boss-arm": "other",
+   "plant-boss-leaf": "other",
+   "plat": "platform",
+   "plat-button": "platform",
+   "plat-eco": "platform",
+   "plat-eco-finalboss": "platform",
+   "plat-flip": "platform",
+   "plunger-lurker": "other",
+   "pontoonfive": "platform",
+   "pontoonten": "platform",
+   "power-left": "other",
+   "power-right": "other",
+   "powercellalt": "other",
+   "precurbridge": "platform",
+   "precursor-arm": "other",
+   "pusher": "other",
+   "qbert-plat": "platform",
+   "qbert-plat-master": "platform",
+   "quicksandlurker": "other",
+   "race-ring": "other",
+   "ram": "other",
+   "reflector": "other",
+   "reflector-middle": "other",
+   "reflector-mirror": "other",
+   "revcycle": "other",
+   "revcycleprop": "other",
+   "robber": "other",
+   "rolling-start": "other",
+   "rounddoor": "door",
+   "sagesail": "other",
+   "scarecrow-a": "other",
+   "scarecrow-b": "other",
+   "seaweed": "other",
+   "shortcut-boulder": "other",
+   "shover": "other",
+   "side-to-side-plat": "platform",
+   "sidedoor": "door",
+   "silostep": "other",
+   "snow-ball-roller": "other",
+   "snow-ball-shadow": "other",
+   "snow-bumper": "other",
+   "snow-button": "button",
+   "snow-eggtop": "other",
+   "snow-fort-gate": "door",
+   "snow-gears": "other",
+   "snow-log": "other",
+   "snow-log-button": "button",
+   "snow-spatula": "platform",
+   "snow-switch": "button",
+   "snowpusher": "other",
+   "spiderwebs": "other",
+   "spike": "other",
+   "springbox": "other",
+   "square-platform": "platform",
+   "square-platform-button": "button",
+   "square-platform-master": "platform",
+   "steam-cap": "other",
+   "sun-iris-door": "door",
+   "sunken-elevator": "platform",
+   "sunken-pipegame": "other",
+   "sunken-pipegame-button": "button",
+   "sunkenfisha": "other",
+   "swamp-barrel": "crate",
+   "swamp-bat-slave": "other",
+   "swamp-blimp": "other",
+   "swamp-rock": "other",
+   "swamp-rope": "other",
+   "swamp-spike": "other",
+   "swamp-tetherrock": "other",
+   "swampgate": "door",
+   "tar-plat": "platform",
+   "teetertotter": "other",
+   "tntbarrel": "breakable",
+   "towertop": "other",
+   "tra-iris-door": "door",
+   "tra-pontoon": "platform",
+   "wall-plat": "platform",
+   "warp-gate-switch": "button",
+   "wedge-plat": "platform",
+   "wedge-plat-outer": "platform",
+   "whirlpool": "water",
+   "windmill-one": "other",
+   "windmill-sail": "other",
+   "windspinner": "other",
+   "windturbine": "other",
+   "yakow": "other"
+  },
+  "effects": [
+   "beach-part",
+   "citb-part",
+   "darkcave-part",
+   "firecanyon-part",
+   "jungle-part",
+   "lavatube-part",
+   "maincave-part",
+   "misty-part",
+   "ogre-part",
+   "part-spawner",
+   "robocave-part",
+   "rolling-part",
+   "snow-part",
+   "sunken-part",
+   "swamp-part",
+   "training-part",
+   "villagea-part",
+   "villageb-part",
+   "villagec-part"
+  ],
+  "unlisted": [
+   "anim-tester",
+   "battlecontroller",
+   "camera-tracker",
+   "citb-battlecontroller",
+   "maincavecam",
+   "manipy",
+   "misty-battlecontroller",
+   "pov-camera",
+   "precurbridgecam",
+   "process-drawable-reserved",
+   "snowcam",
+   "sunkencam",
+   "swamp-battlecontroller",
+   "touch-tracker",
+   "viewer",
+   "village2cam",
+   "water-vol"
+  ],
+  "models": {
+   "accordian": [
+    "accordian"
+   ],
+   "allpontoons": [
+    "allpontoons"
+   ],
+   "anim-tester": [
+    "junglecam"
+   ],
+   "aphid": [
+    "aphid-lurker"
+   ],
+   "arcing-shot": [
+    "junglecam"
+   ],
+   "assistant": [
+    "assistant"
+   ],
+   "assistant-bluehut": [
+    "assistant-village2",
+    "jaws"
+   ],
+   "assistant-firecanyon": [
+    "assistant-firecanyon"
+   ],
+   "assistant-lavatube-end": [
+    "assistant-lavatube-end"
+   ],
+   "assistant-lavatube-start": [
+    "assistant-lavatube-start"
+   ],
+   "assistant-levitator": [
+    "assistant-village2"
+   ],
+   "assistant-villagec": [
+    "assistant-village3"
+   ],
+   "auto-save": [
+    "junglecam"
+   ],
+   "babak": [
+    "babak"
+   ],
+   "babak-with-cannon": [
+    "babak"
+   ],
+   "baby-spider": [
+    "baby-spider"
+   ],
+   "balance-plat": [
+    "balance-plat"
+   ],
+   "balloon": [
+    "balloon"
+   ],
+   "balloonlurker": [
+    "balloonlurker"
+   ],
+   "balloonlurker-pilot": [
+    "balloonlurker-pilot"
+   ],
+   "barrel": [
+    "crate-iron",
+    "crate-steel",
+    "crate-darkeco",
+    "crate-barrel",
+    "crate-bucket",
+    "crate-wood"
+   ],
+   "basebutton": [
+    "generic-button"
+   ],
+   "baseplat": [
+    "junglecam"
+   ],
+   "battlecontroller": [
+    "junglecam"
+   ],
+   "beach-part": [
+    "junglecam"
+   ],
+   "beach-rock": [
+    "junglecam"
+   ],
+   "beachcam": [
+    "junglecam"
+   ],
+   "billy": [
+    "billy",
+    "billy-sidekick",
+    "farthy-snack"
+   ],
+   "billy-rat": [
+    "swamp-rat"
+   ],
+   "billy-snack": [
+    "farthy-snack"
+   ],
+   "bird-lady": [
+    "bird-lady"
+   ],
+   "bird-lady-beach": [
+    "bird-lady-beach",
+    "flutflut",
+    "flutflutegg"
+   ],
+   "bladeassm": [
+    "bladeassm"
+   ],
+   "blocking-plane": [
+    "ef-plane"
+   ],
+   "blue-eco-charger": [
+    "blue-eco-charger"
+   ],
+   "blue-eco-charger-orb": [
+    "blue-eco-charger-orb"
+   ],
+   "blue-sagecage": [
+    "bluesage"
+   ],
+   "boat-fuelcell": [
+    "mistycam"
+   ],
+   "boatpaddle": [
+    "boatpaddle"
+   ],
+   "bone-platform": [
+    "mis-bone-platform"
+   ],
+   "bonelurker": [
+    "bonelurker"
+   ],
+   "breakaway": [
+    "junglecam"
+   ],
+   "breakaway-left": [
+    "breakaway-left"
+   ],
+   "breakaway-mid": [
+    "breakaway-mid"
+   ],
+   "breakaway-right": [
+    "breakaway-right"
+   ],
+   "bucket": [
+    "crate-iron",
+    "crate-steel",
+    "crate-darkeco",
+    "crate-barrel",
+    "crate-bucket",
+    "crate-wood"
+   ],
+   "bully": [
+    "bully"
+   ],
+   "bully-broken-cage": [
+    "bully-broken-cage"
+   ],
+   "buzzer": [
+    "buzzer"
+   ],
+   "cam-layout": [
+    "junglecam"
+   ],
+   "camera-combiner": [
+    "junglecam"
+   ],
+   "camera-master": [
+    "junglecam"
+   ],
+   "camera-slave": [
+    "junglecam"
+   ],
+   "camera-start": [
+    "junglecam"
+   ],
+   "camera-tracker": [
+    "junglecam"
+   ],
+   "camera-voicebox": [
+    "junglecam"
+   ],
+   "cave-trap": [
+    "junglecam"
+   ],
+   "cave-water": [
+    "junglecam"
+   ],
+   "cavecrusher": [
+    "cavecrusher"
+   ],
+   "cavecrystal": [
+    "cavecrystal"
+   ],
+   "caveelevator": [
+    "caveelevator"
+   ],
+   "caveflamepots": [
+    "junglecam"
+   ],
+   "cavegem": [
+    "cavegem"
+   ],
+   "cavegeyserrock": [
+    "junglecam"
+   ],
+   "cavespatula": [
+    "cavespatula-darkcave",
+    "cavespatula"
+   ],
+   "cavespatulatwo": [
+    "cavespatulatwo"
+   ],
+   "cavetrapdoor": [
+    "cavetrapdoor"
+   ],
+   "ceilingflag": [
+    "ceilingflag-geo"
+   ],
+   "chainmine": [
+    "chainmine"
+   ],
+   "citadelcam": [
+    "citadelcam"
+   ],
+   "citb-arm": [
+    "junglecam"
+   ],
+   "citb-arm-a": [
+    "citb-arm-a"
+   ],
+   "citb-arm-b": [
+    "citb-arm-b"
+   ],
+   "citb-arm-c": [
+    "citb-arm-c"
+   ],
+   "citb-arm-d": [
+    "citb-arm-d"
+   ],
+   "citb-arm-section": [
+    "junglecam"
+   ],
+   "citb-arm-shoulder": [
+    "junglecam"
+   ],
+   "citb-arm-shoulder-a": [
+    "citb-arm-shoulder-a"
+   ],
+   "citb-arm-shoulder-b": [
+    "citb-arm-shoulder-b"
+   ],
+   "citb-base-plat": [
+    "plat-citb"
+   ],
+   "citb-battlecontroller": [
+    "citadelcam"
+   ],
+   "citb-bunny": [
+    "citb-bunny"
+   ],
+   "citb-button": [
+    "citb-button"
+   ],
+   "citb-chain-plat": [
+    "citb-chain-plat"
+   ],
+   "citb-chains": [
+    "junglecam"
+   ],
+   "citb-coil": [
+    "citb-coil"
+   ],
+   "citb-disc": [
+    "junglecam"
+   ],
+   "citb-disc-a": [
+    "citb-disc-a"
+   ],
+   "citb-disc-b": [
+    "citb-disc-b"
+   ],
+   "citb-disc-c": [
+    "citb-disc-c"
+   ],
+   "citb-disc-d": [
+    "citb-disc-d"
+   ],
+   "citb-donut": [
+    "citb-donut"
+   ],
+   "citb-drop-plat": [
+    "junglecam"
+   ],
+   "citb-exit-plat": [
+    "citb-exit-plat"
+   ],
+   "citb-firehose": [
+    "citb-firehose"
+   ],
+   "citb-generator": [
+    "citb-generator",
+    "citb-generator-broken"
+   ],
+   "citb-hose": [
+    "citb-hose"
+   ],
+   "citb-iris-door": [
+    "citb-iris-door"
+   ],
+   "citb-launcher": [
+    "citb-launcher"
+   ],
+   "citb-part": [
+    "junglecam"
+   ],
+   "citb-plat": [
+    "plat-citb"
+   ],
+   "citb-plat-eco": [
+    "plat-eco-citb",
+    "plat-eco-citb-lit"
+   ],
+   "citb-robotboss": [
+    "citb-robotboss",
+    "citb-robotboss-nose",
+    "citb-robotboss-head",
+    "citb-robotboss-gun",
+    "citb-robotboss-leftshoulder",
+    "citb-robotboss-rightshoulder",
+    "citb-robotboss-leftarm",
+    "citb-robotboss-rightarm",
+    "citb-robotboss-belly"
+   ],
+   "citb-rotatebox": [
+    "citb-rotatebox"
+   ],
+   "citb-sage": [
+    "junglecam"
+   ],
+   "citb-sagecage": [
+    "citb-sagecage"
+   ],
+   "citb-stair-plat": [
+    "plat-citb"
+   ],
+   "citb-stopbox": [
+    "citb-stopbox"
+   ],
+   "collectable": [
+    "junglecam"
+   ],
+   "crate": [
+    "crate-iron",
+    "crate-steel",
+    "crate-darkeco",
+    "crate-barrel",
+    "crate-bucket",
+    "crate-wood"
+   ],
+   "crate-buzzer": [
+    "crate-iron",
+    "crate-steel",
+    "crate-darkeco",
+    "crate-barrel",
+    "crate-bucket",
+    "crate-wood"
+   ],
+   "crate-darkeco-cluster": [
+    "crate-darkeco-cluster"
+   ],
+   "dark-crystal": [
+    "dark-crystal",
+    "dark-crystal-explode"
+   ],
+   "dark-eco-pool": [
+    "junglecam"
+   ],
+   "dark-plant": [
+    "dark-plant"
+   ],
+   "darkcave-part": [
+    "junglecam"
+   ],
+   "darkecobarrel": [
+    "darkecobarrel"
+   ],
+   "darkecobarrel-base": [
+    "darkecobarrel"
+   ],
+   "darkecobarrel-mover": [
+    "darkecobarrel"
+   ],
+   "darkecobomb": [
+    "darkecobomb"
+   ],
+   "darkvine": [
+    "darkvine"
+   ],
+   "double-lurker": [
+    "double-lurker"
+   ],
+   "double-lurker-top": [
+    "double-lurker-top"
+   ],
+   "driller-lurker": [
+    "driller-lurker"
+   ],
+   "drop-plat": [
+    "citb-drop-plat-red",
+    "citb-drop-plat-green",
+    "citb-drop-plat-blue",
+    "citb-drop-plat-yellow",
+    "citb-drop-plat"
+   ],
+   "eco": [
+    "junglecam"
+   ],
+   "eco-blue": [
+    "junglecam"
+   ],
+   "eco-collectable": [
+    "junglecam"
+   ],
+   "eco-door": [
+    "junglecam"
+   ],
+   "eco-pill": [
+    "junglecam"
+   ],
+   "eco-red": [
+    "junglecam"
+   ],
+   "eco-yellow": [
+    "junglecam"
+   ],
+   "ecoclaw": [
+    "ecoclaw"
+   ],
+   "ecovalve": [
+    "ecovalve-geo"
+   ],
+   "ecovent": [
+    "junglecam"
+   ],
+   "ecoventrock": [
+    "ecoventrock",
+    "beachcam"
+   ],
+   "eggtop": [
+    "eggtop"
+   ],
+   "energyarm": [
+    "energyarm"
+   ],
+   "energyball": [
+    "energyball"
+   ],
+   "energybase": [
+    "energybase"
+   ],
+   "energydoor": [
+    "energydoor"
+   ],
+   "energyhub": [
+    "energyhub"
+   ],
+   "energylava": [
+    "energylava"
+   ],
+   "evilbro": [
+    "evilbro"
+   ],
+   "evilplant": [
+    "evilplant"
+   ],
+   "evilsis": [
+    "evilsis"
+   ],
+   "exit-chamber": [
+    "exit-chamber",
+    "sunkencam"
+   ],
+   "exit-chamber-button": [
+    "generic-button"
+   ],
+   "exit-chamber-dummy": [
+    "exit-chamber-dummy"
+   ],
+   "explorer": [
+    "explorer"
+   ],
+   "farmer": [
+    "farmer"
+   ],
+   "fin-door": [
+    "junglecam"
+   ],
+   "final-door": [
+    "junglecam"
+   ],
+   "finalbosscam": [
+    "finalbosscam",
+    "robotboss-basic"
+   ],
+   "fireboulder": [
+    "fireboulder"
+   ],
+   "firecanyon-part": [
+    "junglecam"
+   ],
+   "first-person-hud": [
+    "junglecam"
+   ],
+   "fisher": [
+    "fisher"
+   ],
+   "fisher-fish": [
+    "catch-fishc",
+    "catch-fishb",
+    "catch-fisha"
+   ],
+   "fishermans-boat": [
+    "fishermans-boat",
+    "evilbro",
+    "evilsis"
+   ],
+   "fleeing-nav-enemy": [
+    "junglecam"
+   ],
+   "floating-launcher": [
+    "floating-launcher"
+   ],
+   "flutflut": [
+    "flut-saddle"
+   ],
+   "flutflut-bluehut": [
+    "flutflut-bluehut"
+   ],
+   "flutflut-plat": [
+    "plat-jungleb",
+    "plat-sunken",
+    "plat"
+   ],
+   "flutflut-plat-large": [
+    "flutflut-plat-large"
+   ],
+   "flutflut-plat-med": [
+    "flutflut-plat-med"
+   ],
+   "flutflut-plat-small": [
+    "flutflut-plat-small"
+   ],
+   "flutflutegg": [
+    "flutflutegg"
+   ],
+   "flying-lurker": [
+    "flying-lurker",
+    "ogrecam"
+   ],
+   "flying-rock": [
+    "kickrock"
+   ],
+   "fuel-cell": [
+    "fuel-cell"
+   ],
+   "gambler": [
+    "gambler"
+   ],
+   "geologist": [
+    "geologist"
+   ],
+   "gnawer": [
+    "gnawer",
+    "maincavecam"
+   ],
+   "gnawer-falling-segment": [
+    "gnawer-segment"
+   ],
+   "gondola": [
+    "gondola"
+   ],
+   "gondolacables": [
+    "gondolacables"
+   ],
+   "gorge": [
+    "junglecam"
+   ],
+   "gorge-abort": [
+    "junglecam"
+   ],
+   "gorge-finish": [
+    "junglecam"
+   ],
+   "gorge-pusher": [
+    "pusher"
+   ],
+   "gorge-start": [
+    "junglecam"
+   ],
+   "green-eco-lurker": [
+    "green-eco-lurker"
+   ],
+   "green-eco-lurker-gen": [
+    "junglecam"
+   ],
+   "green-sagecage": [
+    "green-sagecage",
+    "evilbro-citadel",
+    "evilsis-citadel",
+    "robotboss-basic"
+   ],
+   "greenshot": [
+    "greenshot"
+   ],
+   "grottopole": [
+    "grottopole"
+   ],
+   "happy-plant": [
+    "happy-plant",
+    "rollingcam"
+   ],
+   "harvester": [
+    "harvester"
+   ],
+   "health": [
+    "junglecam"
+   ],
+   "helix-button": [
+    "helix-button",
+    "sunkencam"
+   ],
+   "helix-dark-eco": [
+    "junglecam"
+   ],
+   "helix-slide-door": [
+    "helix-slide-door"
+   ],
+   "helix-water": [
+    "junglecam"
+   ],
+   "hopper": [
+    "hopper"
+   ],
+   "hud": [
+    "junglecam"
+   ],
+   "hud-battle-enemy": [
+    "fuelcell-naked",
+    "swamp-rat",
+    "citb-bunny",
+    "gnawer",
+    "flying-lurker",
+    "babak",
+    "bonelurker"
+   ],
+   "hud-bike-heat": [
+    "junglecam"
+   ],
+   "hud-bike-speed": [
+    "junglecam"
+   ],
+   "hud-buzzers": [
+    "junglecam"
+   ],
+   "hud-fuel-cell": [
+    "fuelcell-naked"
+   ],
+   "hud-health": [
+    "junglecam"
+   ],
+   "hud-money": [
+    "money"
+   ],
+   "hud-money-all": [
+    "money"
+   ],
+   "hud-pickups": [
+    "junglecam"
+   ],
+   "hud-power": [
+    "junglecam"
+   ],
+   "hutlamp": [
+    "hutlamp"
+   ],
+   "ice-cube": [
+    "ice-cube",
+    "ice-cube-break"
+   ],
+   "jng-iris-door": [
+    "jng-iris-door"
+   ],
+   "jngpusher": [
+    "jngpusher"
+   ],
+   "joint-exploder": [
+    "junglecam"
+   ],
+   "jungle-elevator": [
+    "plat-button-geo"
+   ],
+   "jungle-part": [
+    "junglecam"
+   ],
+   "jungle-water": [
+    "junglecam"
+   ],
+   "junglecam": [
+    "junglecam"
+   ],
+   "junglefish": [
+    "junglefish"
+   ],
+   "junglesnake": [
+    "junglesnake"
+   ],
+   "keg": [
+    "keg"
+   ],
+   "keg-conveyor": [
+    "keg-conveyor"
+   ],
+   "keg-conveyor-paddle": [
+    "keg-conveyor-paddle"
+   ],
+   "kermit": [
+    "kermit"
+   ],
+   "kermit-pulse": [
+    "junglecam"
+   ],
+   "launcher": [
+    "junglecam"
+   ],
+   "launcherdoor": [
+    "launcherdoor-maincave-geo",
+    "launcherdoor-geo"
+   ],
+   "lava": [
+    "junglecam"
+   ],
+   "lavaballoon": [
+    "lavaballoon"
+   ],
+   "lavabase": [
+    "lavabase"
+   ],
+   "lavafall": [
+    "lavafall"
+   ],
+   "lavafallsewera": [
+    "lavafallsewera"
+   ],
+   "lavafallsewerb": [
+    "lavafallsewerb"
+   ],
+   "lavashortcut": [
+    "lavashortcut"
+   ],
+   "lavatube-lava": [
+    "junglecam"
+   ],
+   "lavatube-part": [
+    "junglecam"
+   ],
+   "lavayellowtarp": [
+    "lavayellowtarp"
+   ],
+   "level-hint": [
+    "junglecam"
+   ],
+   "light-eco-child": [
+    "light-eco-small"
+   ],
+   "light-eco-mother": [
+    "light-eco-big"
+   ],
+   "lightning-mole": [
+    "lightning-mole"
+   ],
+   "list-keeper": [
+    "junglecam"
+   ],
+   "logo": [
+    "logo-japan",
+    "logo-english",
+    "ndi",
+    "logo-cam",
+    "logo-volumes-japan",
+    "logo-volumes-english",
+    "logo-black",
+    "ndi-cam",
+    "ndi-volumes",
+    "eichar",
+    "sidekick"
+   ],
+   "logo-slave": [
+    "junglecam"
+   ],
+   "logtrap": [
+    "logtrap"
+   ],
+   "lrocklrg": [
+    "lrocklrg"
+   ],
+   "lurkercrab": [
+    "lurkercrab"
+   ],
+   "lurkerm-piston": [
+    "lurkerm-piston-geo"
+   ],
+   "lurkerm-short-sail": [
+    "lurkerm-short-sail"
+   ],
+   "lurkerm-tall-sail": [
+    "lurkerm-tall-sail"
+   ],
+   "lurkerpuppy": [
+    "lurkerpuppy"
+   ],
+   "lurkerworm": [
+    "lurkerworm"
+   ],
+   "maincave-part": [
+    "junglecam"
+   ],
+   "maincavecam": [
+    "junglecam"
+   ],
+   "maindoor": [
+    "maindoor"
+   ],
+   "manipy": [
+    "junglecam"
+   ],
+   "mayor": [
+    "mayor"
+   ],
+   "mayorgears": [
+    "mayorgears-geo"
+   ],
+   "med-res-level": [
+    "junglecam"
+   ],
+   "minecartsteel": [
+    "minecartsteel"
+   ],
+   "minershort": [
+    "minershort"
+   ],
+   "minertall": [
+    "minertall"
+   ],
+   "mis-bone-bridge": [
+    "mis-bone-bridge"
+   ],
+   "misty-battlecontroller": [
+    "mistycam"
+   ],
+   "misty-part": [
+    "junglecam"
+   ],
+   "mistycam": [
+    "junglecam"
+   ],
+   "mistycannon": [
+    "mistycannon"
+   ],
+   "mistycannon-missile": [
+    "sack"
+   ],
+   "money": [
+    "money"
+   ],
+   "mother-spider": [
+    "mother-spider"
+   ],
+   "mother-spider-egg": [
+    "spider-egg-unbroken",
+    "spider-egg-broken"
+   ],
+   "mother-spider-leg": [
+    "mother-spider-leg"
+   ],
+   "mother-spider-proj": [
+    "junglecam"
+   ],
+   "mud": [
+    "junglecam"
+   ],
+   "muse": [
+    "muse"
+   ],
+   "nav-enemy": [
+    "junglecam"
+   ],
+   "ogre-bridge": [
+    "ogre-bridge"
+   ],
+   "ogre-bridgeend": [
+    "ogre-bridgeend"
+   ],
+   "ogre-isle": [
+    "junglecam"
+   ],
+   "ogre-isle-b": [
+    "ogre-isle-b"
+   ],
+   "ogre-isle-c": [
+    "ogre-isle-b"
+   ],
+   "ogre-isle-d": [
+    "ogre-isle-d"
+   ],
+   "ogre-lava": [
+    "junglecam"
+   ],
+   "ogre-part": [
+    "junglecam"
+   ],
+   "ogre-plat": [
+    "junglecam"
+   ],
+   "ogre-step": [
+    "junglecam"
+   ],
+   "ogre-step-a": [
+    "ogre-step-a"
+   ],
+   "ogre-step-b": [
+    "ogre-step-b"
+   ],
+   "ogre-step-c": [
+    "ogre-step-c"
+   ],
+   "ogre-step-d": [
+    "ogre-step-b"
+   ],
+   "ogreboss": [
+    "ogreboss",
+    "ogreboss-column",
+    "ogreboss-cam"
+   ],
+   "ogreboss-bounce-boulder": [
+    "ogreboss-bounce-boulder"
+   ],
+   "ogreboss-missile": [
+    "ogreboss-shoot-boulder"
+   ],
+   "ogreboss-super-boulder": [
+    "ogreboss-super-boulder"
+   ],
+   "ogreboss-village2": [
+    "ogreboss-village2",
+    "fireboulder"
+   ],
+   "oracle": [
+    "oracle",
+    "fuel-cell"
+   ],
+   "orb-cache-top": [
+    "orb-cache-top"
+   ],
+   "orbit-plat": [
+    "orbit-plat"
+   ],
+   "orbit-plat-bottom": [
+    "orbit-plat-bottom"
+   ],
+   "othercam": [
+    "junglecam"
+   ],
+   "part-spawner": [
+    "junglecam"
+   ],
+   "part-tester": [
+    "junglecam"
+   ],
+   "part-tracker": [
+    "junglecam"
+   ],
+   "peeper": [
+    "lightning-mole"
+   ],
+   "pelican": [
+    "pelican",
+    "fuel-cell",
+    "beachcam"
+   ],
+   "periscope": [
+    "periscope-base"
+   ],
+   "pickup-spawner": [
+    "crate-iron",
+    "crate-steel",
+    "crate-darkeco",
+    "crate-barrel",
+    "crate-bucket",
+    "crate-wood"
+   ],
+   "pistons": [
+    "pistons"
+   ],
+   "plant-boss": [
+    "plant-boss-main"
+   ],
+   "plant-boss-arm": [
+    "plant-boss-arms",
+    "plant-boss-back-arms",
+    "plant-boss-vine",
+    "plant-boss-root"
+   ],
+   "plant-boss-leaf": [
+    "plant-boss-leaf"
+   ],
+   "plat": [
+    "plat-jungleb",
+    "plat-sunken",
+    "plat"
+   ],
+   "plat-button": [
+    "plat-button-geo"
+   ],
+   "plat-eco": [
+    "plat-eco",
+    "plat-eco-lit"
+   ],
+   "plat-eco-finalboss": [
+    "plat-eco-finalboss",
+    "plat-eco-finalboss-lit"
+   ],
+   "plat-flip": [
+    "plat-flip-geo"
+   ],
+   "plunger-lurker": [
+    "plunger-lurker",
+    "ogrecam"
+   ],
+   "pontoon": [
+    "junglecam"
+   ],
+   "pontoonfive": [
+    "pontoonfive"
+   ],
+   "pontoonten": [
+    "pontoonten"
+   ],
+   "pov-camera": [
+    "junglecam"
+   ],
+   "power-left": [
+    "power-left"
+   ],
+   "power-right": [
+    "power-right"
+   ],
+   "powercellalt": [
+    "powercellalt"
+   ],
+   "precurbridge": [
+    "precurbridge-geo",
+    "junglecam"
+   ],
+   "precurbridgecam": [
+    "junglecam"
+   ],
+   "precursor-arm": [
+    "precursor-arm"
+   ],
+   "process": [
+    "junglecam"
+   ],
+   "process-drawable": [
+    "junglecam"
+   ],
+   "process-drawable-reserved": [
+    "junglecam"
+   ],
+   "process-hidden": [
+    "junglecam"
+   ],
+   "process-taskable": [
+    "junglecam"
+   ],
+   "progress": [
+    "fuelcell-naked",
+    "money"
+   ],
+   "projectile": [
+    "junglecam"
+   ],
+   "projectile-blue": [
+    "junglecam"
+   ],
+   "projectile-yellow": [
+    "junglecam"
+   ],
+   "puffer": [
+    "puffer-main",
+    "puffer-mean"
+   ],
+   "pusher": [
+    "pusher"
+   ],
+   "pusher-base": [
+    "junglecam"
+   ],
+   "qbert-plat": [
+    "qbert-plat-on",
+    "qbert-plat"
+   ],
+   "qbert-plat-master": [
+    "sunkencam"
+   ],
+   "qbert-plat-on": [
+    "junglecam"
+   ],
+   "quicksandlurker": [
+    "quicksandlurker"
+   ],
+   "quicksandlurker-missile": [
+    "junglecam"
+   ],
+   "race-ring": [
+    "race-ring"
+   ],
+   "racer": [
+    "racer-geo"
+   ],
+   "ram": [
+    "ram",
+    "snowcam"
+   ],
+   "ram-boss": [
+    "ram-boss"
+   ],
+   "ram-boss-proj": [
+    "junglecam"
+   ],
+   "red-sagecage": [
+    "redsage"
+   ],
+   "redshot": [
+    "redring"
+   ],
+   "reflector": [
+    "periscope-mirror"
+   ],
+   "reflector-end": [
+    "junglecam"
+   ],
+   "reflector-middle": [
+    "reflector-middle-geo"
+   ],
+   "reflector-mirror": [
+    "reflector-mirror",
+    "reflector-mirror-break"
+   ],
+   "reflector-origin": [
+    "junglecam"
+   ],
+   "revcycle": [
+    "revcycle-geo"
+   ],
+   "revcycleprop": [
+    "revcycleprop"
+   ],
+   "rigid-body-platform": [
+    "junglecam"
+   ],
+   "robber": [
+    "robber"
+   ],
+   "robocave-part": [
+    "junglecam"
+   ],
+   "robotboss": [
+    "robotboss-basic",
+    "redring",
+    "robotboss-yelloweco",
+    "robotboss-redeco",
+    "robotboss-blueeco"
+   ],
+   "rolling-part": [
+    "junglecam"
+   ],
+   "rolling-start": [
+    "rolling-start-whole",
+    "rolling-start-broken"
+   ],
+   "rolling-water": [
+    "junglecam"
+   ],
+   "rollingcam": [
+    "junglecam"
+   ],
+   "ropebridge": [
+    "junglecam"
+   ],
+   "rounddoor": [
+    "rounddoor"
+   ],
+   "sage": [
+    "sage",
+    "assistant"
+   ],
+   "sage-bluehut": [
+    "sage-bluehut"
+   ],
+   "sage-finalboss": [
+    "green-sagecage",
+    "redsage",
+    "bluesage",
+    "yellowsage",
+    "assistant-lavatube-end",
+    "jak-white",
+    "robotboss-cinematic",
+    "silodoor",
+    "plat-eco-finalboss-lit"
+   ],
+   "sage-villagec": [
+    "sage-village3",
+    "evilbro-village3",
+    "evilsis-village3"
+   ],
+   "sagesail": [
+    "sagesail"
+   ],
+   "scarecrow-a": [
+    "scarecrow-a",
+    "scarecrow-a-break"
+   ],
+   "scarecrow-b": [
+    "scarecrow-b",
+    "scarecrow-b-break"
+   ],
+   "sculptor": [
+    "sculptor",
+    "sculptor-muse"
+   ],
+   "seagull": [
+    "seagull"
+   ],
+   "seagullflock": [
+    "junglecam"
+   ],
+   "seaweed": [
+    "seaweed"
+   ],
+   "sequenceA": [
+    "junglecam"
+   ],
+   "sequenceA-village1": [
+    "sage",
+    "fishermans-boat",
+    "sidekick-human"
+   ],
+   "sequenceB": [
+    "sidekick-human",
+    "bonelurker",
+    "babak",
+    "evilbro",
+    "evilsis"
+   ],
+   "sequenceC": [
+    "sidekick-human",
+    "bonelurker",
+    "darkecocan",
+    "darkecocan-glow"
+   ],
+   "sharkey": [
+    "sharkey"
+   ],
+   "shortcut-boulder": [
+    "shortcut-boulder-whole",
+    "shortcut-boulder-broken"
+   ],
+   "shover": [
+    "shover"
+   ],
+   "side-to-side-plat": [
+    "side-to-side-plat"
+   ],
+   "sidedoor": [
+    "sidedoor-geo"
+   ],
+   "sidekick": [
+    "sidekick"
+   ],
+   "silodoor": [
+    "silodoor"
+   ],
+   "silostep": [
+    "silostep"
+   ],
+   "slide-control": [
+    "junglecam"
+   ],
+   "snow-ball": [
+    "junglecam"
+   ],
+   "snow-ball-roller": [
+    "snow-ball"
+   ],
+   "snow-ball-shadow": [
+    "snow-ball-shadow"
+   ],
+   "snow-bumper": [
+    "snow-bumper"
+   ],
+   "snow-bunny": [
+    "snow-bunny"
+   ],
+   "snow-button": [
+    "snow-button"
+   ],
+   "snow-eggtop": [
+    "snow-eggtop",
+    "snowcam"
+   ],
+   "snow-fort-gate": [
+    "snow-fort-gate"
+   ],
+   "snow-gears": [
+    "snow-gears"
+   ],
+   "snow-log": [
+    "snow-log"
+   ],
+   "snow-log-button": [
+    "snow-switch"
+   ],
+   "snow-part": [
+    "junglecam"
+   ],
+   "snow-spatula": [
+    "snow-spatula"
+   ],
+   "snow-switch": [
+    "snow-switch",
+    "snowcam"
+   ],
+   "snowcam": [
+    "junglecam"
+   ],
+   "snowpusher": [
+    "snowpusher"
+   ],
+   "spider-egg": [
+    "spider-egg-unbroken",
+    "spider-egg-broken"
+   ],
+   "spider-vent": [
+    "junglecam"
+   ],
+   "spiderwebs": [
+    "spiderwebs-good"
+   ],
+   "spike": [
+    "spike"
+   ],
+   "springbox": [
+    "bounceytarp"
+   ],
+   "square-platform": [
+    "square-platform"
+   ],
+   "square-platform-button": [
+    "generic-button"
+   ],
+   "square-platform-master": [
+    "sunkencam"
+   ],
+   "starfish": [
+    "villa-starfish"
+   ],
+   "static-screen": [
+    "junglecam"
+   ],
+   "steam-cap": [
+    "steam-cap"
+   ],
+   "sun-iris-door": [
+    "sun-iris-door"
+   ],
+   "sunken-elevator": [
+    "village2cam",
+    "sunken-elevator"
+   ],
+   "sunken-part": [
+    "junglecam"
+   ],
+   "sunken-pipegame": [
+    "sunkencam"
+   ],
+   "sunken-pipegame-button": [
+    "generic-button"
+   ],
+   "sunken-water": [
+    "junglecam"
+   ],
+   "sunkencam": [
+    "junglecam"
+   ],
+   "sunkenfisha": [
+    "sunkenfisha-red-yellow",
+    "sunkenfisha-yellow-blue",
+    "sunkenfisha-yellow-eye"
+   ],
+   "swamp-barrel": [
+    "crate-iron",
+    "crate-steel",
+    "crate-darkeco",
+    "crate-barrel",
+    "crate-bucket",
+    "crate-wood"
+   ],
+   "swamp-bat": [
+    "junglecam"
+   ],
+   "swamp-bat-slave": [
+    "swamp-bat"
+   ],
+   "swamp-battlecontroller": [
+    "swampcam"
+   ],
+   "swamp-blimp": [
+    "swamp-blimp"
+   ],
+   "swamp-part": [
+    "junglecam"
+   ],
+   "swamp-rat": [
+    "swamp-rat"
+   ],
+   "swamp-rat-nest": [
+    "junglecam"
+   ],
+   "swamp-rat-nest-dummy": [
+    "junglecam"
+   ],
+   "swamp-rat-nest-dummy-a": [
+    "swamp-rat-nest-a"
+   ],
+   "swamp-rat-nest-dummy-b": [
+    "swamp-rat-nest-b"
+   ],
+   "swamp-rat-nest-dummy-c": [
+    "swamp-rat-nest-c"
+   ],
+   "swamp-rock": [
+    "swamp-rock"
+   ],
+   "swamp-rope": [
+    "swamp-rope"
+   ],
+   "swamp-spike": [
+    "swamp-spike"
+   ],
+   "swamp-tetherrock": [
+    "swamp-tetherrock",
+    "swamp-tetherrock-explode"
+   ],
+   "swampcam": [
+    "junglecam"
+   ],
+   "swampgate": [
+    "swamp-spike"
+   ],
+   "swingpole": [
+    "junglecam"
+   ],
+   "tar-plat": [
+    "tar-plat"
+   ],
+   "target": [
+    "eichar",
+    "deathcam",
+    "flut-saddle",
+    "fish-net",
+    "racer-geo",
+    "racer-explode"
+   ],
+   "target-start": [
+    "junglecam"
+   ],
+   "teetertotter": [
+    "teetertotter"
+   ],
+   "time-of-day-proc": [
+    "junglecam"
+   ],
+   "tntbarrel": [
+    "tntbarrel"
+   ],
+   "touch-tracker": [
+    "junglecam"
+   ],
+   "towertop": [
+    "towertop"
+   ],
+   "tra-iris-door": [
+    "jng-iris-door"
+   ],
+   "tra-pontoon": [
+    "pontoonfive"
+   ],
+   "training-cam": [
+    "trainingcam"
+   ],
+   "training-part": [
+    "junglecam"
+   ],
+   "training-water": [
+    "junglecam"
+   ],
+   "vent": [
+    "junglecam"
+   ],
+   "ventblue": [
+    "junglecam"
+   ],
+   "ventred": [
+    "junglecam"
+   ],
+   "ventyellow": [
+    "junglecam"
+   ],
+   "viewer": [
+    "junglecam"
+   ],
+   "villa-fisha": [
+    "junglecam"
+   ],
+   "villa-fishb": [
+    "junglecam"
+   ],
+   "villa-starfish": [
+    "junglecam"
+   ],
+   "village-cam": [
+    "village-cam"
+   ],
+   "village-fish": [
+    "junglecam"
+   ],
+   "village2cam": [
+    "junglecam"
+   ],
+   "villagea-part": [
+    "junglecam"
+   ],
+   "villagea-water": [
+    "junglecam"
+   ],
+   "villageb-ogreboss": [
+    "ogreboss-village2",
+    "fireboulder"
+   ],
+   "villageb-part": [
+    "junglecam"
+   ],
+   "villageb-water": [
+    "junglecam"
+   ],
+   "villagec-lava": [
+    "junglecam"
+   ],
+   "villagec-part": [
+    "junglecam"
+   ],
+   "voicebox": [
+    "speaker"
+   ],
+   "wall-plat": [
+    "wall-plat"
+   ],
+   "warp-gate": [
+    "junglecam"
+   ],
+   "warp-gate-switch": [
+    "warp-gate-switch"
+   ],
+   "warpgate": [
+    "junglecam"
+   ],
+   "warrior": [
+    "warrior"
+   ],
+   "water-anim": [
+    "junglecam"
+   ],
+   "water-vol": [
+    "junglecam"
+   ],
+   "water-vol-deadly": [
+    "junglecam"
+   ],
+   "wedge-plat": [
+    "wedge-plat"
+   ],
+   "wedge-plat-master": [
+    "junglecam"
+   ],
+   "wedge-plat-outer": [
+    "wedge-plat"
+   ],
+   "whirlpool": [
+    "whirlpool"
+   ],
+   "windmill-one": [
+    "windmill-one"
+   ],
+   "windmill-sail": [
+    "windmill-sail"
+   ],
+   "windspinner": [
+    "windspinner"
+   ],
+   "windturbine": [
+    "windturbine"
+   ],
+   "yakow": [
+    "yakow"
+   ],
+   "yellow-sagecage": [
+    "yellowsage"
+   ],
+   "yellowshot": [
+    "redring"
+   ],
+   "yeti": [
+    "junglecam"
+   ],
+   "yeti-slave": [
+    "yeti"
+   ]
+  },
+  "skeletons": {},
+  "water_looks": [
+   "water-anim-sunken-big-room",
+   "water-anim-sunken-first-room-from-entrance",
+   "water-anim-sunken-qbert-room",
+   "water-anim-sunken-first-right-branch",
+   "water-anim-sunken-circular-with-bullys",
+   "water-anim-sunken-hall-with-one-whirlpool",
+   "water-anim-sunken-hall-with-three-whirlpools",
+   "water-anim-sunken-start-of-helix-slide",
+   "water-anim-sunken-room-above-exit-chamber",
+   "water-anim-sunken-hall-before-big-room",
+   "water-anim-sunken-dark-eco-qbert",
+   "water-anim-sunken-short-piece",
+   "water-anim-sunken-big-room-upper-water",
+   "water-anim-sunken-dark-eco-platform-room",
+   "water-anim-maincave-water-with-crystal",
+   "water-anim-maincave-center-pool",
+   "water-anim-maincave-lower-right-pool",
+   "water-anim-maincave-mid-right-pool",
+   "water-anim-maincave-lower-left-pool",
+   "water-anim-maincave-mid-left-pool",
+   "water-anim-robocave-main-pool",
+   "water-anim-misty-mud-by-arena",
+   "water-anim-misty-mud-above-skeleton",
+   "water-anim-misty-mud-behind-skeleton",
+   "water-anim-misty-mud-above-skull-back",
+   "water-anim-misty-mud-above-skull-front",
+   "water-anim-misty-mud-other-near-skull",
+   "water-anim-misty-mud-near-skull",
+   "water-anim-misty-mud-under-spine",
+   "water-anim-misty-mud-by-dock",
+   "water-anim-misty-mud-island-near-dock",
+   "water-anim-misty-mud-lonely-island",
+   "water-anim-misty-dark-eco-pool",
+   "water-anim-ogre-lava",
+   "water-anim-jungle-river",
+   "water-anim-village3-lava",
+   "water-anim-training-lake",
+   "water-anim-darkcave-water-with-crystal",
+   "water-anim-rolling-water-back",
+   "water-anim-rolling-water-front",
+   "water-anim-sunken-dark-eco-helix-room",
+   "water-anim-finalboss-dark-eco-pool",
+   "water-anim-lavatube-energy-lava",
+   "water-anim-village1-rice-paddy",
+   "water-anim-village1-fountain",
+   "water-anim-village1-rice-paddy-mid",
+   "water-anim-village1-rice-paddy-top",
+   "water-anim-village2-bucket"
+  ]
+ },
+ "oceans": {
+  "*ocean-map-sunken*": {
+   "corner": [
+    -1927.0,
+    0.0,
+    -3896.0
+   ],
+   "cell": 96.0,
+   "cells": [
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111"
+   ],
+   "color": [
+    0.224,
+    0.493,
+    0.518
+   ]
+  },
+  "*ocean-map-village1*": {
+   "corner": [
+    -2304.0,
+    0.0,
+    -2304.0
+   ],
+   "cell": 96.0,
+   "cells": [
+    "111111111111111100000000111111111111111111111111",
+    "111111111111111100000000111111111111111111111111",
+    "111111111111111100000000111111111111111111111111",
+    "111111111111111100000000111111111111111111111111",
+    "111111111111111100000000111111111111111111111111",
+    "111111111111111100000000111111111111111111111111",
+    "111111111111111100000000111111111111111111111111",
+    "111111111111111100000000111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111"
+   ],
+   "color": [
+    0.097,
+    0.431,
+    0.5
+   ]
+  },
+  "*ocean-map-village2*": {
+   "corner": [
+    -1927.0,
+    0.0,
+    -3896.0
+   ],
+   "cell": 96.0,
+   "cells": [
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000000000001111111111111111",
+    "111111110000000000000000111111111111111111111111",
+    "111111110000000000000000111111111111111111111111",
+    "111111110000000000000000111111111111111111111111",
+    "111111110000000000000000111111111111111111111111",
+    "111111110000000000000000111111111111111111111111",
+    "111111110000000000000000111111111111111111111111",
+    "111111110000000000000000111111111111111111111111",
+    "111111110000000000000000111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111",
+    "111111111111111111111111111111111111111111111111"
+   ],
+   "color": [
+    0.224,
+    0.493,
+    0.518
+   ]
+  }
+ },
+ "levels": {
+  "beach": {
+   "taskname": "beach",
+   "base_mask": 0,
+   "ocean": "*ocean-map-village1*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "citadel": {
+   "taskname": "citadel",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "darkcave": {
+   "taskname": "darkcave",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "default-level": {
+   "taskname": "default-level",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "demo": {
+   "taskname": "demo",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "finalboss": {
+   "taskname": "finalboss",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "firecanyon": {
+   "taskname": "firecanyon",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "halfpipe": {
+   "taskname": "halfpipe",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "intro": {
+   "taskname": "intro",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "jungle": {
+   "taskname": "jungle",
+   "base_mask": 0,
+   "ocean": "*ocean-map-village1*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "jungleb": {
+   "taskname": "jungleb",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "lavatube": {
+   "taskname": "lavatube",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "maincave": {
+   "taskname": "maincave",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "misty": {
+   "taskname": "misty",
+   "base_mask": 0,
+   "ocean": "*ocean-map-village1*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "ogre": {
+   "taskname": "ogre",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "robocave": {
+   "taskname": "robocave",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "rolling": {
+   "taskname": "rolling",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "snow": {
+   "taskname": "snow",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "sunken": {
+   "taskname": "sunken",
+   "base_mask": 0,
+   "ocean": "*ocean-map-sunken*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "sunkenb": {
+   "taskname": "sunkenb",
+   "base_mask": 0,
+   "ocean": "*ocean-map-sunken*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "swamp": {
+   "taskname": "swamp",
+   "base_mask": 0,
+   "ocean": "*ocean-map-village2*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "test-zone": {
+   "taskname": "test-zone",
+   "base_mask": 0,
+   "ocean": "*ocean-map-village1*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "title": {
+   "taskname": "title",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "training": {
+   "taskname": "training",
+   "base_mask": 0,
+   "ocean": "*ocean-map-village1*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "village1": {
+   "taskname": "village1",
+   "base_mask": 0,
+   "ocean": "*ocean-map-village1*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "village2": {
+   "taskname": "village2",
+   "base_mask": 0,
+   "ocean": "*ocean-map-village2*",
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  },
+  "village3": {
+   "taskname": "village3",
+   "base_mask": 0,
+   "ocean": null,
+   "layer": false,
+   "companions": [],
+   "traffic": false
+  }
+ },
+ "story": null
+}
